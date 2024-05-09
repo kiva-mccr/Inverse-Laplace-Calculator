@@ -6,4 +6,8 @@ This is a generalized purpose linear circuits (II) calculator currently supporti
 - System of Equations **(In-Progress)**
 - Filter Grapher 
 
-To open the calculator navigate to the python file within the repository and click the "Open Collab" button to open an online enviroment.
+To open the calculator navigate to the jupyter file within the repository and click the "Open in Collab" button to open an online enviroment.
+
+[the real relative root of any fork](/../../Linear-Circuits-2-Calculator.ipynb)
+
+
