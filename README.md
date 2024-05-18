@@ -4,7 +4,8 @@ This is a generalized purpose linear circuits (II) calculator currently supporti
 - Inverse Laplace
 - Two Port Parameter Conversion
 - ~~System of Equations~~ **(In-Progress)**
-- Filter Grapher 
+- Filter Grapher
+- ~~Two Port Circuit Calculator~~ **(In-Progress)**
 
 To open the calculator navigate to the [jupyter file](/Linear-Circuits-2-Calculator.ipynb) within the repository and click the "Open in Colab" button to open an online enviroment.
 
