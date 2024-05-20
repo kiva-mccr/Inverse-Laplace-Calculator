@@ -2,7 +2,7 @@
 
 [> Open Calculator <](https://colab.research.google.com/github/kiva-mccr/Linear-Circuits-2-Calculator/blob/main/Linear-Circuits-2-Calculator.ipynb)
 
-![]([https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png](https://colab.research.google.com/github/kiva-mccr/Linear-Circuits-2-Calculator/blob/main/Linear-Circuits-2-Calculator.ipynb#scrollTo=wJg5Fb71Q_mo))
+[![](https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png)](https://colab.research.google.com/github/kiva-mccr/Linear-Circuits-2-Calculator/blob/main/Linear-Circuits-2-Calculator.ipynb#scrollTo=wJg5Fb71Q_mo)
 
 This is a generalized purpose linear circuits (II) calculator currently supporting the below functionality:
 - Inverse Laplace
