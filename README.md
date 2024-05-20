@@ -1,4 +1,4 @@
-[> Open Calculator <](https://colab.research.google.com/github/kiva-mccr/Linear-Circuits-2-Calculator/blob/main/Linear-Circuits-2-Calculator.ipynb)
+[> Open Calculator <](!https://colab.research.google.com/github/kiva-mccr/Linear-Circuits-2-Calculator/blob/main/Linear-Circuits-2-Calculator.ipynb)
 
 # Linear Circuits Calculator
 
